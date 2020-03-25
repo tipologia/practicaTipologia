@@ -1,0 +1,2 @@
+# practicaTipologia
+Pràctica Tipologia UOC
